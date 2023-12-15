@@ -68,6 +68,11 @@
             <version>0.4.0</version>
         </dependency>
         <dependency>
+            <groupId>net.thauvin.erik</groupId>
+            <artifactId>cryptoprice</artifactId>
+            <version>1.0.2</version>
+        </dependency>
+        <dependency>
             <groupId>eu.hansolo</groupId>
             <artifactId>tilesfx</artifactId>
             <version>11.48</version>
@@ -89,6 +94,11 @@
             <artifactId>junit-jupiter-engine</artifactId>
             <version>${junit.version}</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-graphics</artifactId>
+            <version>21-ea+24</version>
         </dependency>
     </dependencies>
 
